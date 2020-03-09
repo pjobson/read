@@ -15,7 +15,7 @@
   "description": "read(1) for node programs",
   "repository": {
     "type": "git",
-    "url": "git://github.com/isaacs/read.git"
+    "url": "git://github.com/pjobson/read.git"
   },
   "license": "ISC",
   "scripts": {
